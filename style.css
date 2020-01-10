@@ -1,0 +1,61 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  width: 324px;
+  height: 324px;
+  margin: 5px;
+  border-radius: 3px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+.box{
+  width: 160px;
+  height: 160px;
+  border: solid 1px black;
+  font: 14px monospace;
+  background-color: #ffffcc;
+}
+
+.card{
+ width: 334px;
+ display:inline-block;
+ background-color: #b3b3b3;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ border-radius: 15px;
+ text-align: center;
+}
+
+.headercase {
+  border: solid 3px black;
+  border-radius: 15px;
+}
+
+.header {
+  margin: 1px;
+}
+
+.wolfimage {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 300px;
+}
+
+.citation {
+  font-size: 10px;
+}
+
+p {
+  width: 331px;
+  font: 15px monospace;
+  border: solid 1px grey;
+  background-color: #ffffcc;
+}
+
+strong {
+  font: 16px impact, serif;  ;
+}
+
+body {
+  background-color: grey;
+  text-align: center;
+}
